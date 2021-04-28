@@ -1,6 +1,8 @@
 # Tarea
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+Matías Morales Méndez
+19.640.199-7
 
 ## Development server
 
